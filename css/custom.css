@@ -78,7 +78,7 @@ body {
     padding: 20px 0;
     font-family: "Ubuntu", sans-serif;
     background-color: var(--main-color);
-    border-bottom: solid var(--third-color) 1px;
+    border-bottom: solid var(--third-color) 5px;
 }
 
 @media (max-width: 947px) {
@@ -130,7 +130,7 @@ section{
     color: var(--ste-color);
     display: flex;
     /*background: url("../img/clay-banks-kBaf0DwBPbE-unsplash.jpg") no-repeat center;*/
-    background: linear-gradient(to right, var(--color-fundo-inicio) 5%, rgba(192, 8, 8, 0)), url("../img/clay-banks-kBaf0DwBPbE-unsplash.jpg") center;
+    background: linear-gradient(to right, var(--color-fundo-inicio) 5%, rgba(192, 8, 8, 0)), url("../img/towfiqu-barbhuiya--9gPKrsbGmc-unsplash.jpg") center;
     height: 100vh;
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
