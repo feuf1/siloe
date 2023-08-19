@@ -9,7 +9,7 @@
 }
 
 :root {
-    --main-color: #2d4db8; /* #030457 */ 
+    --main-color: #001e82; /* #030457 */ 
     --ste-color: #fff;
     --active-color: #0063e5;
     --first-color: #08132f;
@@ -396,7 +396,7 @@ footer span a:hover{
     margin-bottom: 0;
     font-weight: 400;
     font-size: 40px;
-    padding: 40px;
+    padding: 65px;
     color: var(--cor-logo);
 }
 
