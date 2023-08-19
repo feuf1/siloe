@@ -18,7 +18,7 @@
     --quarta-color: #f3e525;
     --cor-logo: #FFD700; /*#e9e62 */ 
     --color: #f38deb; /*#c1e63d*/
-    --color-fundo-inicio:#FFFFE0;
+    --color-fundo-inicio:#c0bfc7;
 }
 
 body {
@@ -50,6 +50,10 @@ body {
 .navbar .menu li {
     list-style: none;
     display: inline-block;
+}
+
+.max-width .top-content .vindo{
+    font-size: 50px;
 }
 
 .navbar .menu li a {
