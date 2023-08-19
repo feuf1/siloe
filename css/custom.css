@@ -18,6 +18,7 @@
     --quarta-color: #f3e525;
     --cor-logo: #FFD700; /*#e9e62 */ 
     --color: #f38deb; /*#c1e63d*/
+    --color-fundo-inicio:#FFFFE0;
 }
 
 body {
@@ -116,6 +117,8 @@ section{
 @media (max-width: 690px){
     section{
         padding: 50px 0;
+        font-size: 12px;
+
     }
 }
 
@@ -123,7 +126,7 @@ section{
     color: var(--ste-color);
     display: flex;
     /*background: url("../img/clay-banks-kBaf0DwBPbE-unsplash.jpg") no-repeat center;*/
-    background: linear-gradient(to right, var(--color) 5%, rgba(192, 8, 8, 0)), url("../img/clay-banks-kBaf0DwBPbE-unsplash.jpg") center;
+    background: linear-gradient(to right, var(--color-fundo-inicio) 5%, rgba(192, 8, 8, 0)), url("../img/clay-banks-kBaf0DwBPbE-unsplash.jpg") center;
     height: 100vh;
     min-height: 500px;
     font-family: 'Ubuntu', sans-serif;
