@@ -228,7 +228,7 @@ section{
 }
 
 .services .serv-content .card:hover i{
-    color: var(--ste-color);
+    color: var(--cor-logo);
 }
 
 .services .services .card .box{
